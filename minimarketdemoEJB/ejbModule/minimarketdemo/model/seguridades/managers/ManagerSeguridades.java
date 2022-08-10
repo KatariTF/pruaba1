@@ -149,6 +149,8 @@ public class ManagerSeguridades {
      * @return La ruta de acceso al sistema.
      * @throws Exception
      */
+    
+  //Prueba
     public LoginDTO login(int idSegUsuario,String clave,String direccionIP) throws Exception{
     	//crear DTO:
 		LoginDTO loginDTO=new LoginDTO();
