@@ -151,6 +151,8 @@ public class ManagerSeguridades {
      */
     
   //Prueba
+  //Prueba
+  //Prueba
     public LoginDTO login(int idSegUsuario,String clave,String direccionIP) throws Exception{
     	//crear DTO:
 		LoginDTO loginDTO=new LoginDTO();
